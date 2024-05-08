@@ -1,0 +1,178 @@
+[
+    {
+        "_id": "01ab",
+        "name": "AL HARAMAIN MUSK FLORAL",
+        "details": "Elements like rose, jasmine, ylang ylang, and lily. You'll find soft, sweet notes including musk.",
+        "image": "https://ecf541e83f.nxcli.io/public/uploads/all/XhT9DRzCdH1mSGiXEFK34Uor45mkYGDHJf0xLeef.jpg",
+        "category": "ladies",
+        "price": 2700
+    },
+    {
+        "_id": "02cd",
+        "name": "ARMAF CLUB DE NUIT INTENSE",
+        "details": "A sophisticated and bold fragrance for men. Notes of lemon, black currant, apple, jasmine, and vanilla.",
+        "image": " https://www.bigbasket.com/media/uploads/p/l/40254668_2-armaf-club-de-nuit-eau-de-toilette-long-lasting-fragrance-for-men.jpg ",
+        "category": "gents",
+        "price": 3500
+    },
+    {
+        "_id": "03ef",
+        "name": "BURBERRY HER",
+        "details": "A fruity and floral fragrance for women. With notes of blackcurrant, jasmine, and musk.",
+        "image": " https://en.excaliburshop.com/uploads/item/10608/template/108/images/0-burberry-her-set-edp-100ml-edp-10ml-403414.jpg ",
+        "category": "ladies",
+        "price": 5500
+    },
+    {
+        "_id": "04gh",
+        "name": "GIVENCHY GENTLEMAN",
+        "details": "A classic and refined scent for men. Combines notes of lavender, iris, and patchouli.",
+        "image": " https://cdn.shoplightspeed.com/shops/644833/files/31436780/800x800x3/givenchy-givenchy-gentleman-originale-for-men-eau.jpg ",
+        "category": "gents",
+        "price": 4500
+    },
+    {
+        "_id": "05ij",
+        "name": "VERSACE BRIGHT CRYSTAL",
+        "details": "A fresh and vibrant fragrance for women. Features notes of pomegranate, peony, and musk.",
+        "image": " https://buyperfumeinbangladesh.com/wp-content/uploads/2021/09/Versace-Bright-Crystal-Absolu-EDP-for-Women-1.jpg ",
+        "category": "ladies",
+        "price": 6090
+    },
+    {
+        "_id": "06kl",
+        "name": "DOLCE & GABBANA LIGHT BLUE",
+        "details": "An iconic scent for women. With notes of Sicilian lemon, cedar, and apple.",
+        "image": " https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/d/o/dolce-_-gabbana-light-blue-eau-intense-edp-100ml-for-men.jpg ",
+        "category": "ladies",
+        "price": 699
+    },
+    {
+        "_id": "07mn",
+        "name": "PACO RABANNE 1 MILLION",
+        "details": "A luxurious and sensual fragrance for men. Features notes of blood mandarin, cinnamon, and leather.",
+        "image": " https://dynamic.zacdn.com/HkJWLO6wJCk9wOSNRqWFuT5uTjs=/filters:quality(70):format(webp)/https://static-sg.zacdn.com/p/paco-rabanne-6596-0338123-2.jpg ",
+        "category": "gents",
+        "price": 6500
+    },
+    {
+        "_id": "08op",
+        "name": "CHANEL COCO MADEMOISELLE",
+        "details": "A sophisticated and elegant fragrance for women. With notes of orange, patchouli, and vetiver.",
+        "image": " https://images-na.ssl-images-amazon.com/images/I/41SrLU-wDvL.jpg ",
+        "category": "ladies",
+        "price": 900
+    },
+    {
+        "_id": "09qr",
+        "name": "DIOR SAUVAGE",
+        "details": "A powerful and fresh fragrance for men. Combines notes of bergamot, pepper, and ambroxan.",
+        "image": " https://buyperfumeinbangladesh.com/wp-content/uploads/2018/02/Dior-Sauvage-100ml-EDP-for-Men.jpg ",
+        "category": "gents",
+        "price": 759
+    },
+    {
+        "_id": "10st",
+        "name": "GUCCI BLOOM",
+        "details": "A rich and floral scent for women. Features notes of tuberose, jasmine, and Rangoon creeper.",
+        "image": "https://fragrancemarket.com/cdn/shop/products/Gucci-Gucci-Bloom-Women-Eau-de-Parfum-1-Best-Price-Fragrance-Parfume-FragranceOutlet.com-DETAILS_5edcf47e-b86d-4db8-9962-dbcb0e550234.jpg",
+        "category": "new",
+        "price": 850
+    },
+    {
+        "_id": "11uv",
+        "name": "TOM FORD BLACK ORCHID",
+        "details": "An opulent and sensual fragrance for both men and women. With notes of black truffle, orchid, and vanilla.",
+        "image": " https://www.lojaglamourosa.com/resources/medias/shop/products/thumbnails/shop-brand-large/shop-pf-03226-02-black-orchid-edt---50ml--1.jpg",
+        "category": "both",
+        "price": 1200
+    },
+    {
+        "_id": "12wx",
+        "name": "YVES SAINT LAURENT LA NUIT DE L'HOMME",
+        "details": "A seductive and mysterious fragrance for men. Combines notes of cardamom, cedar, and coumarin.",
+        "image": " https://profumeria.gumlet.io/media/catalog/product/cache/2/image/85e4522595efc69f496374d01ef2bf13/3/6/3614273668750_4b5d755cb0e92069dcd2448a4c95fc2c.jpg",
+        "category": "gents",
+        "price": 959
+    },
+    {
+        "_id": "13yz",
+        "name": "CHLOÉ NOMADE",
+        "details": "A modern and feminine fragrance for women. Features notes of oak moss, cherry plum, and freesia.",
+        "image": " https://diamu.com.bd/wp-content/uploads/2023/12/Chloe-Nomade-EDP-for-Women-75ML-1.jpg",
+        "category": "ladies",
+        "price": 800
+    },
+    {
+        "_id": "14ab",
+        "name": "CALVIN KLEIN ETERNITY FOR MEN",
+        "details": "A timeless and refreshing fragrance for men. With notes of lavender, mandarin, and sandalwood.",
+        "image": " https://fragrancecart.com/wp-content/uploads/2017/07/CALVIN-KLEIN-ETERNITY-SUMMER-2017-EDT-FOR-MEN.jpg ",
+        "category": "gents",
+        "price": 5000
+    },
+    {
+        "_id": "15cd",
+        "name": "JO MALONE LIME BASIL & MANDARIN",
+        "details": "A citrusy and aromatic fragrance for both men and women. Combines notes of lime, basil, and mandarin.",
+        "image": " https://media.s-bol.com/mONlMZYONWWr/550x600.jpg ",
+        "category": "both",
+        "price": 1100
+    },
+    {
+        "_id": "16ef",
+        "name": "LANCOME LA VIE EST BELLE",
+        "details": "A joyful and feminine fragrance for women. Features notes of iris, patchouli, and praline.",
+        "image": " https://img.perfume.com/images/products/parent/medium/69559w.jpg ",
+        "category": "ladies",
+        "price": 1000
+    },
+    {
+        "_id": "17gh",
+        "name": "HUGO BOSS BOTTLED",
+        "details": "A classic and masculine fragrance for men. With notes of apple, cinnamon, and vetiver.",
+        "image": " https://perfumeshop.com.bd/wp-content/uploads/2021/09/0001-8156268507_20210918_220926_0000.jpg ",
+        "category": "gents",
+        "price": 1550
+    },
+    {
+        "_id": "18wx",
+        "name": "YVES SAINT LAURENT LA NUIT DE L'HOMME",
+        "details": "A seductive and mysterious fragrance for men. Combines notes of cardamom, cedar, and coumarin.",
+        "image": " https://profumeria.gumlet.io/media/catalog/product/cache/2/image/85e4522595efc69f496374d01ef2bf13/3/6/3614273668750_4b5d755cb0e92069dcd2448a4c95fc2c.jpg",
+        "category": "poprlar",
+        "price": 959
+    },
+    {
+        "_id": "19yz",
+        "name": "CHLOÉ NOMADE",
+        "details": "A modern and feminine fragrance for women. Features notes of oak moss, cherry plum, and freesia.",
+        "image": " https://diamu.com.bd/wp-content/uploads/2023/12/Chloe-Nomade-EDP-for-Women-75ML-1.jpg",
+        "category": "all",
+        "price": 800
+    },
+    {
+        "_id": "20gh",
+        "name": "GIVENCHY GENTLEMAN",
+        "details": "A classic and refined scent for men. Combines notes of lavender, iris, and patchouli.",
+        "image": " https://cdn.shoplightspeed.com/shops/644833/files/31436780/800x800x3/givenchy-givenchy-gentleman-originale-for-men-eau.jpg ",
+        "category": "popular",
+        "price": 4500
+    },
+    {
+        "_id": "21ij",
+        "name": "VERSACE BRIGHT CRYSTAL",
+        "details": "A fresh and vibrant fragrance for women. Features notes of pomegranate, peony, and musk.",
+        "image": " https://buyperfumeinbangladesh.com/wp-content/uploads/2021/09/Versace-Bright-Crystal-Absolu-EDP-for-Women-1.jpg ",
+        "category": "all",
+        "price": 6090
+    },
+    {
+        "_id": "22kl",
+        "name": "DOLCE & GABBANA LIGHT BLUE",
+        "details": "An iconic scent for women. With notes of Sicilian lemon, cedar, and apple.",
+        "image": " https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/d/o/dolce-_-gabbana-light-blue-eau-intense-edp-100ml-for-men.jpg ",
+        "category": "all",
+        "price": 699
+    }
+]
