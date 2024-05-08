@@ -1,6 +1,17 @@
+import { useContext } from 'react';
 import { Link } from 'react-router-dom';
+import { AuthContext } from '../../../providers/AuthProvider';
+import { FaShoppingCart } from 'react-icons/fa';
+import useCart from '../../../hooks/useCart';
 // import logo from '../../../assets/Home/fh-logo.png';
 const Navbar = () => {
+    const {user,logOut} =useContext(AuthContext);
+    const [cart] = useCart();
+    const handleLogOut =() =>{
+logOut()
+.then(()=>{})
+.catch(error=>console.log(error));
+    }
     return (
         <div>
 <div className="flex">
@@ -17,6 +28,20 @@ const Navbar = () => {
 <Link> Shop By Category </Link>
 <Link> Contact Us </Link>
 <Link> FAQ </Link>
+
+{
+    user ? <>
+    <Link onClick={handleLogOut} to=""> LogOut</Link>
+     </> : <>
+    <Link to="/login"> Login </Link></>
+}
+
+<button className="btn">
+  
+  <div className="badge badge-secondary">+{cart?.length || 0 }</div>
+  {/* <div className="badge badge-secondary">+0</div> */}
+  <FaShoppingCart></FaShoppingCart>
+</button>
     </div>
     {/* ----------------------------button */}
     <div>
