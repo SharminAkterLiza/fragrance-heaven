@@ -30,7 +30,7 @@ const navigate = useNavigate();
 
 const saveUser = {name:data.name, email:data.email}
 
-           fetch('https://spicecraft-cafe-server.onrender.com/users', {
+           fetch('http://localhost:5000/users', {
             method: 'POST',
             headers: {
               'content-type': 'application/json'

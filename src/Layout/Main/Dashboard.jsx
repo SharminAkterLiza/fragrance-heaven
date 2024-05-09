@@ -1,4 +1,5 @@
 import { FaCalendar, FaList, FaSearch, FaShoppingCart } from "react-icons/fa";
+import { FaMapLocation } from "react-icons/fa6";
 import { NavLink, Outlet } from "react-router-dom";
 
 const Dashboard = () => {
@@ -22,7 +23,7 @@ const Dashboard = () => {
         <div className="divider"></div>
 
         <li>
-        <NavLink to="/"><FaShoppingCart></FaShoppingCart> Home</NavLink>
+        <NavLink to="/"><FaShoppingCart></FaShoppingCart> <FaMapLocation></FaMapLocation> Home</NavLink>
         </li>
         <li>
         <NavLink to="/shop"> <FaSearch></FaSearch> Shop</NavLink>
