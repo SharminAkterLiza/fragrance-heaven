@@ -36,12 +36,12 @@ logOut()
     <Link to="/login"> Login </Link></>
 }
 
-<button className="btn">
+<Link to="/dashboard/cart"><button className="btn">
   
   <div className="badge badge-secondary">+{cart?.length || 0 }</div>
   {/* <div className="badge badge-secondary">+0</div> */}
   <FaShoppingCart></FaShoppingCart>
-</button>
+</button></Link>
     </div>
     {/* ----------------------------button */}
     <div>

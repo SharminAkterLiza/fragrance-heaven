@@ -12,7 +12,7 @@ const axiosSecure = useAxioSecure() ;
         queryKey: ['carts', user?.email],
         enabled: !loading,
         // queryFn: async () => {
-        //     const res = await fetch(`http://localhost:5000/carts/carts?email=${user?.email}`, { headers:{
+        //     const res = await fetch(`http://localhost:5000/carts /carts?email=${user?.email}`, { headers:{
         //         authorization : `bearer ${token}`
         //     }})
         //     return res.json();
