@@ -26,7 +26,7 @@ logOut()
 <Link to="/shop"> Shop </Link>
 <Link> Best Selling </Link>
 <Link> Shop By Category </Link>
-<Link> Contact Us </Link>
+<Link to="/contact"> Contact Us </Link>
 <Link> FAQ </Link>
 
 {
