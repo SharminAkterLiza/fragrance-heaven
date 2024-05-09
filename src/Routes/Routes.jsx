@@ -11,6 +11,7 @@ import SignUp from "../Pages/SignUp/SignUp";
 import PrivateRoute from "../Pages/PrivateRoute/PrivateRoute";
 import Dashboard from "../Layout/Main/Dashboard";
 import Cart from "../Pages/Dashboard/Cart/Cart";
+import ContactUs from "../Pages/ContactUs/ContactUs";
 
  export const router = createBrowserRouter([
     {
@@ -41,6 +42,10 @@ import Cart from "../Pages/Dashboard/Cart/Cart";
             path : 'private',
             element : <PrivateRoute></PrivateRoute>
         },
+        {
+          path : 'contact',
+          element : <ContactUs></ContactUs>
+      },
        
         
 
